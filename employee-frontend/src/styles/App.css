@@ -1,0 +1,41 @@
+/* Global page container */
+.page-container {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+/* Headings */
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Forms */
+form {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+form input {
+  width: 100%;
+  padding: 8px;
+}
+
+/* Employee list */
+.employee-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+/* Buttons spacing */
+.btn {
+  margin-left: 5px;
+}
